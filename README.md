@@ -25,19 +25,19 @@ I'm currently working as a **Technical Trainer** with a strong passion for codin
 
 ## 📚 Projects
 
-### 🔹 [Project 1: Project Name]
-- **Description:** Brief description of the project.
-- **Technologies:** List of technologies used.
+### 🔹 [Project 1: Spotify clone⏯️]
+- **Description:** Add 10 songs and the songs can be played separately and also using the forward ▶️ and backward ◀️ keys, we can play the music any part of that particular song using the range function ,also a gif image to  play the equalizer
+- **Technologies:** HTML 💀, CSS 🖌️, Javascript🔋.
 
-### 🔹 [Project 2: Project Name]
-- **Description:** Brief description of the project.
-- **Technologies:** List of technologies used.
+### 🔹 [Project 2:Music Player🎵]
+- **Description:** layout of a music player containing the buttons◀️▶️⏯️ and song name 🎵,song cover 🖼️ and option icons.
+- **Technologies:** HTML 💀, CSS 🖌️, Javascript🔋.
 
 ## 📫 Get in Touch
 
 - 🌐 [Portfolio Website](Your Portfolio Website URL)
-- 💼 [LinkedIn](Your LinkedIn Profile)
-- 📧 [Email](mailto:Your Email Address)
+- 💼 [LinkedIn](https://www.linkedin.com/in/imblesseddohna/)
+- 📧 [Email](mailto:imblesseddohna@gmail.com)
 
 Feel free to explore my repositories to see what I've been working on. Let's connect and collaborate on exciting projects!
 
