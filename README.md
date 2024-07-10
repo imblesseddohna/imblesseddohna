@@ -26,14 +26,14 @@ I'm currently working as a **Technical Trainer** with a strong passion for codin
 ## 📚 Projects
 
 ### 🔹 [Project 1: Spotify clone⏯️]
-- **Description:** Add 10 songs and the songs can be played separately and also using the forward ▶️ and backward ◀️ keys, we can play the music any part of that particular song using the range function ,also a gif image to  play the equalizer
+- **Description:** Add 10 songs and the songs can be played separately and also using the forward ▶️ and backward ◀️ keys, we can play the music any part of that particular song using the range function,also a gif image to  play the equalizer
 - **Technologies:** HTML 💀, CSS 🖌️, Javascript🔋.
 
 ### 🔹 [Project 2:Music Player🎵]
 - **Description:** layout of a music player containing the buttons◀️▶️⏯️ and song name 🎵,song cover 🖼️ and option icons.
 - **Technologies:** HTML 💀, CSS 🖌️, Javascript🔋.
 
-  ### 🔹 [Project 3:ToDoList📑]
+### 🔹 [Project 3:ToDoList📑]
 - **Description:** Add, delete, and Strike features to a To-do-List
 - **Technologies:** HTML 💀, CSS 🖌️, Javascript🔋.
 
