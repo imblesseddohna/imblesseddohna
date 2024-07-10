@@ -33,6 +33,10 @@ I'm currently working as a **Technical Trainer** with a strong passion for codin
 - **Description:** layout of a music player containing the buttons◀️▶️⏯️ and song name 🎵,song cover 🖼️ and option icons.
 - **Technologies:** HTML 💀, CSS 🖌️, Javascript🔋.
 
+  ### 🔹 [Project 3:ToDoList📑]
+- **Description:** Add, delete, and Strike features to a To-do-List
+- **Technologies:** HTML 💀, CSS 🖌️, Javascript🔋.
+
 ## 📫 Get in Touch
 
 - 🌐 [Portfolio Website](Your Portfolio Website URL)
