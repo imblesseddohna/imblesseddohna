@@ -1,48 +1,170 @@
+# 👋 Hi, I'm Dohna A S
 
-# 👋 Hello, I'm Dohna A S
+## 🚀 Technical Head | Full Stack Developer | Technical Trainer
 
-## 🌟 Welcome to My GitHub Profile!
+Welcome to my GitHub!
+I am a **Full Stack Developer and Technical Trainer with 4+ years of experience** in building scalable web applications and mentoring aspiring developers.
 
-Thank you for taking the time to visit my profile! I'm excited to share my journey and projects with you.
+Currently working as **Technical Head at Netics IT Innovations**, I lead development activities, conduct technical training programs, and contribute to real-world software development projects.
 
-## About Me
-
-I'm currently working as a **Technical Trainer** with a strong passion for coding and teaching. With expertise in both front-end and back-end technologies, as well as databases, I am a proficient **Full Stack Web Developer**.
-
-## 💻 Skills
-
-### Front-End
-- 🌐 **Languages:** HTML, CSS, JavaScript
-- 🚀 **Frameworks/Libraries:** React, Angular, Bootstrap
-
-### Back-End
-- ☕ **Languages:** Java, Python
-- 🛠 **Frameworks:** Django, Spring, Hibernate
-
-### Databases
-- 🗄 **Relational:** MySQL, PostgreSQL, SQLite
-- 🗂 **NoSQL:** MongoDB
-
-## 📚 Projects
-
-### 🔹 [Project 1: Spotify clone⏯️]
-- **Description:** Add 10 songs and the songs can be played separately and also using the forward ▶️ and backward ◀️ keys, we can play the music any part of that particular song using the range function,also a gif image to  play the equalizer
-- **Technologies:** HTML 💀, CSS 🖌️, Javascript🔋.
-
-### 🔹 [Project 2:Music Player🎵]
-- **Description:** layout of a music player containing the buttons◀️▶️⏯️ and song name 🎵,song cover 🖼️ and option icons.
-- **Technologies:** HTML 💀, CSS 🖌️, Javascript🔋.
-
-### 🔹 [Project 3:ToDoList📑]
-- **Description:** Add, delete, and Strike features to a To-do-List
-- **Technologies:** HTML 💀, CSS 🖌️, Javascript🔋.
-
-## 📫 Get in Touch
-
-- 🌐 [Portfolio Website](Your Portfolio Website URL)
-- 💼 [LinkedIn](https://www.linkedin.com/in/imblesseddohna/)
-- 📧 [Email](mailto:imblesseddohna@gmail.com)
-
-Feel free to explore my repositories to see what I've been working on. Let's connect and collaborate on exciting projects!
+I enjoy **building applications, teaching programming, and exploring emerging technologies.**
 
 ---
+
+# 💼 Professional Experience
+
+### 🏢 Technical Head / Software Developer
+
+**Netics IT Innovations** | July 2023 – Present
+
+* Lead technical teams and assign development tasks.
+* Conduct training in **Full Stack Development (Java & Python)**.
+* Work on real-time application development projects.
+* Deliver sessions on **Web Development, Databases, and Programming**.
+* Conduct **career orientation programs in engineering colleges**.
+* Currently expanding expertise in **Android Development and Software Testing (Selenium)**.
+
+### 💻 Junior Developer
+
+**Oracuz Infotech** | April 2022 – June 2023
+
+* Developed responsive web interfaces using **HTML, CSS, JavaScript**.
+* Implemented backend logic using **Java and Python**.
+* Worked on debugging, documentation, and feature enhancement.
+* Participated in team code reviews and collaborative development.
+
+### 👨‍💻 Software Trainee
+
+**Quest Innovative Solutions** | June 2021 – March 2022
+
+* Assisted in developing application modules.
+* Participated in **requirement analysis, coding, and testing**.
+* Built foundational programming and debugging skills.
+
+---
+
+# 💻 Tech Stack
+
+## 🌐 Frontend Development
+
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* ReactJS
+* AngularJS
+
+## ⚙️ Backend Development
+
+* Java
+* Python
+* Spring
+* Spring Boot
+* Django
+* Hibernate
+* .NET
+
+## 🗄 Databases
+
+* MySQL
+* PostgreSQL
+* SQLite
+* SQL Server
+* MongoDB
+
+## 🧪 Testing
+
+* Manual Testing
+* Selenium Automation (Java)
+
+## 🛠 Tools
+
+* VS Code
+* Eclipse
+* NetBeans
+* Git & GitHub
+* Microsoft Azure
+
+---
+
+# 📂 Featured Projects
+
+### 🛍 Auric Street
+
+**Tech:** NextJS, Tailwind CSS, JavaScript
+E-commerce styled modern web platform built with responsive UI and optimized performance.
+
+---
+
+### 🏫 Netics Academy Official Website
+
+**Tech:** ReactJS, HTML, CSS, JavaScript, Azure
+Developed the official academy website with dynamic UI and optimized design.
+
+---
+
+### 🧠 Quiz Master
+
+**Tech:** Java, JSP, MySQL
+Interactive quiz platform with backend database support.
+
+---
+
+### 🤖 CSE Department Bot
+
+**Tech:** Python, Django, SQLite
+Chatbot-style system for answering department related queries.
+
+---
+
+### 🏢 Networkz Systems Official Website
+
+**Tech:** ReactJS, Python, Django
+Full-stack website built for an IT training institute.
+
+---
+
+### 🛒 E-Commerce Website
+
+**Tech:** Java, Spring Boot, MySQL
+Complete e-commerce platform with backend logic and database integration.
+
+---
+
+# 🎓 Education
+
+🎓 **B.Tech in Computer Science**
+Heera College of Engineering (2017 – 2021)
+
+---
+
+# 📜 Certifications
+
+* Python Full Stack Developer – Networkz Systems
+* Java Full Stack Developer – Quest Innovative Solutions
+
+---
+
+# 🌱 Currently Learning
+
+* Android App Development
+* Advanced Spring Boot
+* Automation Testing with Selenium
+* Cloud Deployment
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn
+[https://www.linkedin.com/in/imblesseddohna/](https://www.linkedin.com/in/imblesseddohna/)
+
+💻 GitHub
+[https://github.com/imblesseddohna](https://github.com/imblesseddohna)
+
+📧 Email
+[imblesseddohna@gmail.com](mailto:imblesseddohna@gmail.com)
+
+---
+
+⭐ *“Code. Teach. Inspire.”*
