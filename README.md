@@ -84,6 +84,7 @@ I enjoy **building applications, teaching programming, and exploring emerging te
 
 **Tech:** NextJS, Tailwind CSS, JavaScript
 E-commerce styled modern web platform built with responsive UI and optimized performance.
+Live Link:[AURIC STREET](https://www.auricstreet.com/)
 
 ---
 
@@ -148,7 +149,7 @@ Heera College of Engineering (2017 – 2021)
 # 📫 Connect With Me
 
 💼 LinkedIn
-[https://www.linkedin.com/in/imblesseddohna/](https://www.linkedin.com/in/imblesseddohna/)
+[https://www.linkedin.com/in/iamblesseddohna/](https://www.linkedin.com/in/iamblesseddohna/)
 
 💻 GitHub
 [https://github.com/imblesseddohna](https://github.com/imblesseddohna)
