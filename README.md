@@ -24,15 +24,6 @@ I enjoy **building applications, teaching programming, and exploring emerging te
 * Conduct **career orientation programs in engineering colleges**.
 * Currently expanding expertise in **Android Development and Software Testing (Selenium)**.
 
-### 💻 Junior Developer
-
-**Oracuz Infotech** | April 2022 – June 2023
-
-* Developed responsive web interfaces using **HTML, CSS, JavaScript**.
-* Implemented backend logic using **Java and Python**.
-* Worked on debugging, documentation, and feature enhancement.
-* Participated in team code reviews and collaborative development.
-
 ### 👨‍💻 Software Trainee
 
 **Quest Innovative Solutions** | June 2021 – March 2022
